@@ -6,3 +6,6 @@ alias ls='eza --color=always --color-scale=all --color-scale-mode=gradient --ico
 alias ll='eza --color=always --color-scale=all --color-scale-mode=gradient --icons=always --group-directories-first -l --git -h'
 alias la='eza --color=always --color-scale=all --color-scale-mode=gradient --icons=always --group-directories-first -a'
 alias lla='eza --color=always --color-scale=all --color-scale-mode=gradient --icons=always --group-directories-first -a -l --git -h'
+
+alias opus='claude --model opus --effort medium'
+alias sonnet='claude --model sonnet --effort medium'
